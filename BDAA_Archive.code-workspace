@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "DataFest-2024",
-			"path": "../DataFest-2024"
+			"path": "."
 		}
 	],
 	"settings": {}
